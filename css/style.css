@@ -6,7 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  
+  background-image: linear-gradient(red, rgb(0, 34, 255));
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -21,11 +22,11 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(232, 99, 99, 0.85);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Gabriela', Arial, Helvetica, sans-serif;
   color: #fff;
 }
 
